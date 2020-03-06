@@ -125,6 +125,11 @@
 	sort_category = "Xenowear"
 	whitelisted = list(SPECIES_UNATHI, SPECIES_YEOSA)
 
+/datum/gear/gloves/forensic_modified
+	display_name = "modified gloves, forensic"
+	sort_category = "Xenowear"
+	whitelisted = list(SPECIES_UNATHI, SPECIES_YEOSA)
+
 /datum/gear/gloves/latex/modified
 	display_name = "modified gloves, latex"
 	path = /obj/item/clothing/gloves/latex/modified

@@ -43,6 +43,20 @@
 	heat_protection = HANDS
 	max_heat_protection_temperature = GLOVES_MAX_HEAT_PROTECTION_TEMPERATURE
 
+	/obj/item/clothing/gloves/forensic_modified
+	desc = "Specially made gloves for forensic technicians. The luminescent threads woven into the material stand out under scrutiny. This one is modified for use by Unathi."
+	name = "modified forensic gloves"
+	icon_state = "forensic"
+	item_state = "bgloves"
+	siemens_coefficient = 0.50
+	permeability_coefficient = 0.05
+	item_flags = ITEM_FLAG_PREMODIFIED
+
+	cold_protection = HANDS
+	min_cold_protection_temperature = GLOVES_MIN_COLD_PROTECTION_TEMPERATURE
+	heat_protection = HANDS
+	max_heat_protection_temperature = GLOVES_MAX_HEAT_PROTECTION_TEMPERATURE
+
 /obj/item/clothing/gloves/thick
 	desc = "These work gloves are thick and fire-resistant."
 	name = "work gloves"
