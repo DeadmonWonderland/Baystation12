@@ -127,6 +127,7 @@
 
 /datum/gear/gloves/forensic_modified
 	display_name = "modified gloves, forensic"
+	path = /obj/item/clothing/gloves/forensic_modified
 	sort_category = "Xenowear"
 	whitelisted = list(SPECIES_UNATHI, SPECIES_YEOSA)
 
