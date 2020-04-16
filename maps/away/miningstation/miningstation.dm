@@ -17,10 +17,10 @@
 
 ///////////////////////////////////crew
 /decl/hierarchy/outfit/corpse
-    hierarchy_type = /decl/hierarchy/outfit/corpse
+	hierarchy_type = /decl/hierarchy/outfit/corpse
 
 /decl/hierarchy/outfit/corpse/miningstation
-    hierarchy_type = /decl/hierarchy/outfit/corpse/miningstation
+	hierarchy_type = /decl/hierarchy/outfit/corpse/miningstation
 
 /obj/effect/landmark/corpse/mningstation/deadminer
 	name = "Dead miner"
@@ -280,7 +280,7 @@
 	bleed_colour = "#5c0606"
 	break_stuff_probability = 25
 	pry_time = 8 SECONDS
-	pry_desc = "clawing"	
+	pry_desc = "clawing"
 
 /mob/living/simple_animal/hostile/meat/horrorsmall
 	name = "Smaller Horror"
