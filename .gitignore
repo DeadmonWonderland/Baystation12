@@ -48,5 +48,3 @@ lib/*.so
 # python
 *.pyc
 __pycache__
-
-baystation12.dme
