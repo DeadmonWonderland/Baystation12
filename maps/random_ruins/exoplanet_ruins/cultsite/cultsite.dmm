@@ -1,0 +1,322 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"b" = (
+/turf/simulated/wall/cult/reinf,
+/area/space)
+"c" = (
+/obj/structure/table/woodentable/mahogany,
+/turf/simulated/floor/cult,
+/area/space)
+"e" = (
+/obj/item/remains/xeno,
+/turf/simulated/floor/cult,
+/area/space)
+"l" = (
+/obj/item/remains/xeno,
+/obj/item/weapon/material/twohanded/spear,
+/turf/simulated/floor/cult,
+/area/space)
+"p" = (
+/obj/structure/table/woodentable/mahogany,
+/obj/item/weapon/material/twohanded/fireaxe/cult,
+/turf/simulated/floor/cult,
+/area/space)
+"q" = (
+/obj/structure/constructshell/cult,
+/turf/simulated/floor/cult,
+/area/space)
+"u" = (
+/mob/living/simple_animal/hostile/faithless/cult,
+/turf/simulated/floor/cult,
+/area/space)
+"w" = (
+/obj/structure/deity/radiant_statue,
+/turf/simulated/floor/cult,
+/area/space)
+"H" = (
+/obj/structure/cult/pylon,
+/turf/simulated/floor/cult,
+/area/space)
+"I" = (
+/obj/structure/table/woodentable/mahogany,
+/obj/item/clothing/suit/cultrobes/magusred,
+/obj/item/clothing/head/culthood/magus,
+/obj/item/clothing/shoes/cult,
+/turf/simulated/floor/cult,
+/area/space)
+"J" = (
+/turf/space,
+/area/space)
+"K" = (
+/mob/living/simple_animal/hostile/creature/cult,
+/turf/simulated/floor/cult,
+/area/space)
+"P" = (
+/obj/machinery/door/unpowered/simple/cult{
+	dir = 8
+	},
+/turf/simulated/floor/cult,
+/area/space)
+"T" = (
+/turf/simulated/floor/cult,
+/area/space)
+"U" = (
+/obj/structure/cult/talisman,
+/obj/item/weapon/material/knife/ritual/sacrifice,
+/turf/simulated/floor/cult,
+/area/space)
+
+(1,1,1) = {"
+J
+J
+J
+J
+J
+J
+b
+b
+b
+b
+b
+b
+b
+b
+b
+"}
+(2,1,1) = {"
+J
+J
+J
+J
+J
+J
+b
+H
+T
+I
+p
+c
+T
+H
+b
+"}
+(3,1,1) = {"
+J
+J
+J
+J
+T
+J
+b
+T
+T
+T
+T
+T
+T
+T
+b
+"}
+(4,1,1) = {"
+J
+J
+J
+J
+T
+T
+b
+q
+T
+u
+T
+u
+T
+q
+b
+"}
+(5,1,1) = {"
+J
+T
+J
+J
+T
+T
+b
+q
+T
+T
+U
+T
+T
+q
+b
+"}
+(6,1,1) = {"
+J
+T
+T
+T
+T
+T
+b
+q
+T
+T
+T
+T
+T
+q
+b
+"}
+(7,1,1) = {"
+J
+J
+J
+T
+e
+T
+b
+T
+T
+T
+e
+T
+T
+T
+b
+"}
+(8,1,1) = {"
+J
+J
+T
+T
+T
+T
+b
+T
+K
+T
+T
+T
+K
+T
+b
+"}
+(9,1,1) = {"
+w
+T
+T
+T
+T
+w
+b
+H
+T
+T
+T
+T
+T
+H
+b
+"}
+(10,1,1) = {"
+b
+b
+b
+P
+b
+b
+b
+b
+b
+T
+T
+T
+b
+b
+b
+"}
+(11,1,1) = {"
+b
+w
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+w
+b
+"}
+(12,1,1) = {"
+b
+T
+T
+T
+T
+T
+T
+T
+u
+T
+T
+T
+T
+T
+b
+"}
+(13,1,1) = {"
+b
+T
+l
+T
+T
+T
+T
+T
+u
+T
+T
+e
+T
+T
+b
+"}
+(14,1,1) = {"
+b
+w
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+w
+b
+"}
+(15,1,1) = {"
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+"}
