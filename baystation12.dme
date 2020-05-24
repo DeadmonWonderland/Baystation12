@@ -1149,6 +1149,7 @@
 #include "code\game\objects\structures\rubble.dm"
 #include "code\game\objects\structures\safe.dm"
 #include "code\game\objects\structures\seaweed.dm"
+#include "code\game\objects\structures\containers.dm"
 #include "code\game\objects\structures\showcase.dm"
 #include "code\game\objects\structures\signs.dm"
 #include "code\game\objects\structures\skele_stand.dm"
