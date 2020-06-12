@@ -24,3 +24,13 @@ flocked to the planet, with Followers of Markesh communities growing quite rapid
 	scorching heats of Cinu, to the tropical paradises of Kingston, to the bustling shipyards of Ceres."
 	ruling_body = "Varies"
 	distance = "Varies"
+	secondary_langs = list(
+		LANGUAGE_HUMAN_EURO,
+		LANGUAGE_HUMAN_CHINESE,
+		LANGUAGE_HUMAN_ARABIC,
+		LANGUAGE_HUMAN_INDIAN,
+		LANGUAGE_HUMAN_IBERIAN,
+		LANGUAGE_HUMAN_RUSSIAN,
+		LANGUAGE_SPACER,
+		LANGUAGE_SIGN
+	)
