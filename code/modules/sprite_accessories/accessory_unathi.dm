@@ -46,3 +46,80 @@
 	icon_state = "default"
 	icon = 'icons/mob/human_races/species/unathi/body.dmi'
 	species_allowed = list(SPECIES_UNATHI)
+
+//// Unathi Tatoos
+
+//Unathi Base
+
+/datum/sprite_accessory/marking/unathi
+	icon = 'icons/mob/human_races/species/unathi/default_markings.dmi'
+	species_allowed = list(SPECIES_UNATHI)
+	body_parts = list(
+		BP_CHEST,
+		BP_L_ARM,
+		BP_R_ARM,
+		BP_L_LEG,
+		BP_R_LEG
+	)
+
+// Female plating
+
+/datum/sprite_accessory/marking/unathi/plating_female_full
+	name = "Plating (Full, Female)"
+	icon_state = "base_plating_f"
+
+/datum/sprite_accessory/marking/unathi/plating_female_chest
+	name = "Plating (Chest, Female)"
+	icon_state = "plating_f_chest"
+	body_parts = BP_CHEST
+
+/datum/sprite_accessory/marking/unathi/plating_female_right_arm
+	name = "Plating (R. Arm, Female)"
+	icon_state = "plating_f_r_arm"
+	body_parts = BP_R_ARM
+
+/datum/sprite_accessory/marking/unathi/plating_female_left_arm
+	name = "Plating (L. Arm, Female)"
+	icon_state = "plating_f_l_arm"
+	body_parts = BP_L_ARM
+
+/datum/sprite_accessory/marking/unathi/plating_female_right_knee
+	name = "Plating (R. Knee, Female)"
+	icon_state = "plating_f_r_knee"
+	body_parts = BP_R_LEG
+
+/datum/sprite_accessory/marking/unathi/plating_female_left_knee
+	name = "Plating (L. Knee, Female)"
+	icon_state = "plating_f_l_knee"
+	body_parts = BP_L_LEG
+
+// Male Plating
+
+/datum/sprite_accessory/marking/unathi/plating_male_full
+	name = "Plating (Full, Male)"
+	icon_state = "base_plating_male"
+
+/datum/sprite_accessory/marking/unathi/plating_male_chest
+	name = "Plating (Chest, Male)"
+	icon_state = "base_plating_male"
+	body_parts = BP_CHEST
+
+/datum/sprite_accessory/marking/unathi/plating_male_right_arm
+	name = "Plating (R. Arm, Male)"
+	icon_state = "plating_m_r_arm"
+	body_parts = BP_R_ARM
+
+/datum/sprite_accessory/marking/unathi/plating_male_left_arm
+	name = "Plating (L. Arm, Male)"
+	icon_state = "plating_m_l_arm"
+	body_parts = BP_L_ARM
+
+/datum/sprite_accessory/marking/unathi/plating_male_right_knee
+	name = "Plating (R. Knee, Male)"
+	icon_state = "plating_m_r_knee"
+	body_parts = BP_R_LEG
+
+/datum/sprite_accessory/marking/unathi/plating_male_left_knee
+	name = "Plating (L. Knee, Male)"
+	icon_state = "plating_m_l_knee"
+	body_parts = BP_L_LEG
